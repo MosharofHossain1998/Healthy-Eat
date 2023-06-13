@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.display {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    margin: 5%;
+    padding: 20px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    margin-top: 50px;
+    padding: 20px 50px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
+
+.background {
+    background-image: url(images/BG-image.png);
+    background-repeat: no-repeat;
+}
+
+.center {
+    text-align: center;
+}
+
+.Pm {
+    padding: 0;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Food {
+    height: 70%;
+    width: 100%;
+    border-radius: 5%;
+}
+
+.shadow {
+    border-radius: 5%;
+    box-shadow: 20px 20px 20px 20px lightgray;
+
+}
+
+
+.BackgroungColor {
+    background-image: linear-gradient(white, rgb(254, 252, 249));
+
+}
+
+.followers {
+    width: 33%;
+    text-align: center;
+
+}
+
+.SocilaMedia {
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+}
+
+.Footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
